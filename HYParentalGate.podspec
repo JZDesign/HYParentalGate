@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "https://twitter.com/RomanN2"
 
   s.platform     = :ios
-  s.ios.deployment_target = "8.0"
+  s.ios.deployment_target = "15.0"
 
 
   s.source       = { :git => "https://github.com/RomanN2/HYParentalGate.git", :tag => "1.0.12" }
